@@ -1,0 +1,30 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+
+## Visual Studio & Rider files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.ide/
+.idea/
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Environment & Secrets
+.env
+.env.local
+.env.*.local
+! .env.example
+
+## Logs
+*.log
+*.log.*
+
